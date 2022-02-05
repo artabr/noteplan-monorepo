@@ -1,0 +1,6 @@
+[submodule "packages/expo-app"]
+	path = packages/expo-app
+	url = git@github.com:artabr/noteplan.git
+[submodule "packages/backend"]
+	path = packages/backend
+	url = git@github.com:artabr/noteplan-backend.git
